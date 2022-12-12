@@ -1,0 +1,5 @@
+Program is run from terminal with following command:
+
+> python xml_validation_final.py file1.xml file2.dtd
+
+
